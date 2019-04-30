@@ -1,6 +1,0 @@
-<task name="/kernel/storage/misc/env_setup" role="STANDALONE">
-    <params>
-        <param name='INSTALL_RPM' value="fcoe-utils-1.0.22-3.el6 device-mapper-multipath-0.4.9-56.el6_3.1" />
-        <param name='NO_MP' value="1" />
-    </params>
-</task>
